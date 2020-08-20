@@ -10,6 +10,7 @@
 
 # production
 /build
+/src/webfonts
 
 # misc
 .DS_Store
